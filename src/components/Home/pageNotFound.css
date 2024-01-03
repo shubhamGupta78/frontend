@@ -1,0 +1,16 @@
+
+  
+  /* Style the 404 heading */
+  h1 {
+    font-size: 3rem;
+    color: #333;
+    text-align: center;
+    margin-top: 10%; /* Heading text color */
+  }
+  
+  /* Style the error message */
+  p {
+    font-size: 1.5rem;
+    color: #777;
+    text-align: center;  /* Message text color */
+  }
